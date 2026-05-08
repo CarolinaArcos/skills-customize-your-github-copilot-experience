@@ -65,6 +65,13 @@
       "description": "Create a REST API for a task management system using the FastAPI framework, implementing CRUD operations for tasks with proper data validation and error handling.",
       "path": "assignments/rest-apis-fastapi",
       "dueDate": "2026-06-05"
+    },
+    {
+      "id": "web-development-basics",
+      "title": "Web Development Basics",
+      "description": "Create a personal portfolio website using HTML, CSS, and JavaScript to showcase projects and skills.",
+      "path": "assignments/web-development-basics",
+      "dueDate": "2026-06-19"
     }
   ]
 }
